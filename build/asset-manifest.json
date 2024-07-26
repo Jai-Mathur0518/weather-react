@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-Coding-Projects/static/css/main.e717e51f.css",
+    "main.js": "/My-Coding-Projects/static/js/main.f2d2938a.js",
+    "index.html": "/My-Coding-Projects/index.html",
+    "main.e717e51f.css.map": "/My-Coding-Projects/static/css/main.e717e51f.css.map",
+    "main.f2d2938a.js.map": "/My-Coding-Projects/static/js/main.f2d2938a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e717e51f.css",
+    "static/js/main.f2d2938a.js"
+  ]
+}
